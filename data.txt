@@ -1,0 +1,3 @@
+Name: Amel
+Age: 24
+Favorite color: Black
